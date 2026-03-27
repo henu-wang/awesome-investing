@@ -193,6 +193,7 @@
 -   [ThetaGang](https://github.com/brndnmtthws/thetagang) - Implements "the wheel" options strategy for IBKR\
 -   [Portfolio Visualizer](https://portfoliovisualizer.com) - Run Portfolio Backtests/Simulations
 -   [Find My Moat](https://findmymoat.com/) - Investing Tools Directory
+-   [KeepRule](https://keeprule.com/) - Searchable database of 1,377 investment principles from 26 legendary investors (Buffett, Munger, Dalio, Marks), with AI-powered chat and master comparisons
 
 ---
 
